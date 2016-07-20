@@ -1,0 +1,24 @@
+*{font-family: 'Tangerine', arial, helvetica;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {color: #B88A00;
+}
+
+body {background-image: url(img.jpg);
+	  background-repeat: no-repeat;
+	  background-size: 100% 700px;
+	  font-size: 28px;
+	  color: white;
+}
+
+ul { 
+   list-style-type: none; 
+}
+
+#slogan {
+	font-size: 30px;
+	font-style: italic;
+}
