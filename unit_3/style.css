@@ -5,6 +5,7 @@
 }
 
 h1 {color: #B88A00;
+	word-spacing: 4px;
 }
 
 body {background-image: url(img.jpg);
@@ -12,6 +13,9 @@ body {background-image: url(img.jpg);
 	  background-size: 100% 700px;
 	  font-size: 28px;
 	  color: white;
+	  line-height: 42px;
+	  letter-spacing: 0.08em;
+	  word-spacing: 3px;
 }
 
 ul { 
@@ -21,4 +25,9 @@ ul {
 #slogan {
 	font-size: 30px;
 	font-style: italic;
+}
+
+#mission {
+    margin: 0 auto;
+    width: 600px;
 }
