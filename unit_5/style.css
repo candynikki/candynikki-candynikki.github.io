@@ -1,0 +1,58 @@
+*{font-family: 'Tangerine', arial, helvetica;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+h1 {color: #B88A00;
+	word-spacing: 4px;
+}
+
+body {background-image: url(img.jpg);
+	  background-repeat: no-repeat;
+	  background-size: 100% 700px;
+	  font-size: 28px;
+	  color: white;
+	  line-height: 42px;
+	  letter-spacing: 0.08em;
+	  word-spacing: 3px;
+}
+
+ul { 
+   list-style-type: none; 
+}
+
+#slogan {
+	font-size: 30px;
+	font-style: italic;
+}
+
+#mission {
+    margin: 0 auto;
+    width: 600px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div {
+	background-color: #FFE2B8
+	border: 1px black solid;
+	padding: 20px;
+}
+
